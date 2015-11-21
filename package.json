@@ -1,0 +1,30 @@
+{
+  "name": "D3Snippets",
+  "description": "Code snippets for D3.js",
+  "version": "0.1.0",
+  "displayName": "D3.js code snippets",
+  "publisher": "yoyo",
+  "icon": "images/d3.svg",
+  "galleryBanner": {
+    "theme": "light"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+	  {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+	  }
+    ]
+  }
+}
