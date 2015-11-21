@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "displayName": "D3.js code snippets",
   "publisher": "yoyo",
-  "icon": "images/d3.svg",
+  "icon": "images/d3.png",
   "galleryBanner": {
     "theme": "light"
   },
