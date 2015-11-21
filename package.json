@@ -1,7 +1,7 @@
 {
   "name": "D3Snippets",
   "description": "Code snippets for D3.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "D3.js code snippets",
   "publisher": "yoyo",
   "icon": "images/d3.png",
