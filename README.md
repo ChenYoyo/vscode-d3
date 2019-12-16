@@ -1,9 +1,9 @@
-#D3.js code snippets
+# D3.js code snippets
 
 This extension contains code snippets for D3.js on Visual Studio Code.
 https://marketplace.visualstudio.com/items/yoyo.D3Snippets
 
-##Installation
+## Installation
 1. Install Visual Studio Code first on https://code.visualstudio.com/
 2. Open Command Pallete (Ctrl/Cmd + Shift + P)
 3. Key in: Extensions: Install Extension
@@ -22,14 +22,14 @@ https://marketplace.visualstudio.com/items/yoyo.D3Snippets
 | `scale→`   | D3 scale|
 | `nest→`   |D3 nest|
 
-###Data
+### Data
 | Trigger  | Content |
 | -------: | ------- |
 | `csv→`   | d3.csv|
 | `dsv→`   | d3.dsv|
 | `json→`   |d3.json |
 
-###SVG
+### SVG
 | Trigger  | Content |
 | -------: | ------- |
 | `circle→`   | svg:circle|
@@ -37,7 +37,7 @@ https://marketplace.visualstudio.com/items/yoyo.D3Snippets
 | `line→`   | svg:line|
 | `rect→`   | svg:rect|
 
-###Function
+### Function
 | Trigger  | Content |
 | -------: | ------- |
 | `af→`   | Anonymous Function|
